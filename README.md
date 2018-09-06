@@ -346,7 +346,7 @@ Nella fase di testing che ha tenuto in considerazione lo strong scaling sono sta
 Nello strong scaling infatti il numero dell'input resta invariato, quello che cambia è il numero di processori.
 Nella figura in basso è possibile osservare i risultati di questa fase di testing.
 <div style="text-aling:center">
- <img src="https://github.com/CiccioTecchio/n-Body_MPI/blob/master/img/strong.png"/>
+ <img src="https://github.com/vincenzo1094/Words_count-MPI/blob/master/img/strong.PNG"/>
  </div>
  
  ## Weak Scaling
@@ -355,7 +355,7 @@ La fase di testing che ha tenuto in considerazione il weak scaling  sono stati u
 Nel weak scaling infatti il numero di particelle cresce in maniera proporzionale al numero di processori.
 Nella figura in basso è possibile osservare i risultati di questa fase di testing.
 <div style="text-aling:center">
- <img src="https://github.com/CiccioTecchio/n-Body_MPI/blob/master/img/weak.png"/>
+ <img src="https://github.com/vincenzo1094/Words_count-MPI/blob/master/img/weak.PNG"/>
  </div>
 
 ## Come compilare il sorgente
